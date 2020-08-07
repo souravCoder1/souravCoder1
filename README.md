@@ -87,7 +87,7 @@
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/jira.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/kaltura.png" height="30"></code>
 
-
+<img src="https://gpvc.arturio.dev/souravpal01" alt="profile views"/> 
 <!--
 [!sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravpal01)](https://github.com/souravpal01) -->
 

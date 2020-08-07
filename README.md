@@ -16,7 +16,6 @@
 </p>
 
 
-<hr>
 ### Languages:
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/c.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/java.png" height="30"></code>
@@ -26,7 +25,7 @@
 
 ### Web Development (Full-stack):
 
-#### Backend/Server:
+#### •Backend/Server:
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/j2ee.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/jsp.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/servlet.png" height="30"></code>
@@ -64,7 +63,7 @@
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/ajax.png" height="30"></code>
 
 
-#### •Database:
+#### Database:
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/mysql1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/oracle.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/mongo.png" height="30"></code>
@@ -83,11 +82,9 @@
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/ku.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/jenkins.jpg" height="30"></code>
 
-### Others:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/ott.png" height="30"></code>
+### •Others:
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/agile.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/jira.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/bitmovin.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/kaltura.png" height="30"></code>
 
 

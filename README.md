@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://www.facebook.com/groups/831080204059349"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="mailto:souravpal7217@gmail.com"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/mail.jgg"></a>&nbsp;&nbsp;
+<a href="mailto:souravpal7217@gmail.com"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/mail.jpg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -91,11 +91,11 @@
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/kaltura.png" height="30"></code>
 
 
+<!--
+[!sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravpal01)](https://github.com/souravpal01) -->
 
-[!sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravpal01)](https://github.com/souravpal01)
 
-
-<!--![ so cool!](https://github.com/souravpal01/souravpal01/blob/master/wave.svg )-->
+<!--[! so cool!](https://github.com/souravpal01/souravpal01/blob/master/wave.svg ) -->
 
 
 

@@ -7,12 +7,10 @@
 </p>
 -->
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/souravpal01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:souravpal7217@gmail.com?subject=Olá%20Sourav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/groups/831080204059349"><img src="https://img.shields.io/badge/facebook-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+<a href="https://www.facebook.com/groups/831080204059349"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/t.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/l.png"></a>&nbsp;&nbsp;
 </p>
-
 
 
 <hr>

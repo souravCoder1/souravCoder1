@@ -10,6 +10,7 @@
 <p align="center">
 <a href="https://www.facebook.com/groups/831080204059349"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/l.png"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/l.png"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -92,14 +93,14 @@
 [!sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravpal01)](https://github.com/souravpal01)
 
 
-![ so cool!](https://github.com/souravpal01/souravpal01/blob/master/wave.svg )
-
+<!--![ so cool!](https://github.com/souravpal01/souravpal01/blob/master/wave.svg )-->
 
 
 
 
 <!--
-**punitkmryh/punitkmryh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**souravpal01/souravpal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

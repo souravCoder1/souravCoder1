@@ -1,6 +1,6 @@
 <h2 align='center'> Hi over there, I'm Sourav!</a>👋 🧑🏻‍💻</h2>
 <p align="center">
- <br><img src="https://github.com/souravpal01/souravpal01/blob/master/Developer.gif" width="450px"><br><br>
+ <br><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/Developer.gif" width="450px"><br><br>
 </p>
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
 <!--

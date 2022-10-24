@@ -2,7 +2,7 @@
 <p align="center">
  <br><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/Developer.gif" width="450px"><br><br>
 </p>
-<h3  align='center'>Senior Software Enginner 📬 Find me around the web 🌎 </h3>
+<h3  align='center'> Senior Software Enginner 📬 Find me around the web 🌎 </h3>
 <!--
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=souravpal01.souravpal01"></a>

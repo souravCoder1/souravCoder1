@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="mailto:souravpal7217@gmail.com"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/mail.jpg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/t.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sourav.pal01/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/t.png"></a>&nbsp;&nbsp;
 </p>
 
 

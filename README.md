@@ -11,6 +11,7 @@
 </p>
 -->
 
+<!--
 <p align="center">
 <a href="https://www.facebook.com/groups/831080204059349"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/l.png"></a>&nbsp;&nbsp;
@@ -18,7 +19,7 @@
 <a href="https://twitter.com/souravpal01"><img height="30" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/t.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sourav.pal01/"><img alt="Sourav Pal's Instagram" height="30px" src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/social/instagram.png"></a>&nbsp;&nbsp;
 </p>
-
+-->
 
 ### Languages:
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/c.png" height="30"></code>

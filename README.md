@@ -4,7 +4,9 @@
 </p>
 <h3  align='center'> Senior Software Enginner</h3>
 <h3  align='center'> 📬 Find me around the web 🌎 </h3>
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=sourav2256" alt="Sourav" /> </p>
 
+<p align="center">  </p>
 <!--
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=souravpal01.souravpal01"></a>
